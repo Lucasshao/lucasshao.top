@@ -2,57 +2,112 @@
   "projectsData": [
     {
       "id": 1,
-      "title": "React Portfolio Website",
-      "description": "Project 1 description",
-      "image": "/images/projects/1.png",
-      "tag": ["All", "Web"],
+      "title": "Realtor clone react app",
+      "description": "Built and deployed a real estate clone app using React, Firebase, and Tailwind CSS",
+      "image": "/images/projects/Realtor-website.png",
+      "tag": ["All", "Web", "React", "Tailwind", "Fullstack", "NextJs"],
       "gitUrl": "/",
-      "previewUrl": "/"
+      "previewUrl": "https://realtor-clone-react-lucas.vercel.app/"
     },
     {
       "id": 2,
-      "title": "Potography Portfolio Website",
-      "description": "Project 2 description",
-      "image": "/images/projects/2.png",
-      "tag": ["All", "Web"],
+      "title": "Today I learned app",
+      "description": "Developed a full-stack web application using HTML, CSS, JavaScript, and React.",
+      "image": "/images/projects/Today-I-Learn-App.png",
+      "tag": ["All", "Web", "Fullstack", "Javascript"],
       "gitUrl": "/",
-      "previewUrl": "/"
+      "previewUrl": "https://todayilearned-lucas.netlify.app"
     },
     {
       "id": 3,
-      "title": "E-commerce Application",
-      "description": "Project 3 description",
-      "image": "/images/projects/3.png",
-      "tag": ["All", "Web"],
+      "title": "Topsocial Website",
+      "description": "Vite & Pnpm for setup, custom configs, env variables, JS automation, advanced CSS, interactive design, CSS classes, pseudo-elements",
+      "image": "/images/projects/Topsocial-version2.png",
+      "tag": ["All", "Web", "Frontend", "Javascript"],
       "gitUrl": "/",
-      "previewUrl": "/"
+      "previewUrl": "https://topsocial-version2-lucas.netlify.app"
     },
     {
       "id": 4,
-      "title": "Food Ordering Application",
-      "description": "Project 4 description",
-      "image": "/images/projects/4.png",
-      "tag": ["All", "Mobile"],
+      "title": "Responsive Car Website",
+      "description": "Develop responsive commercial website by using latest Html, Css and Javascript",
+      "image": "/images/projects/Responsive-car-website.png",
+      "tag": ["All", "Web", "Frontend"],
       "gitUrl": "/",
-      "previewUrl": "/"
+      "previewUrl": "https://responsive-car-website-lucas.netlify.app"
     },
     {
       "id": 5,
-      "title": "React Firebase Template",
-      "description": "Authentication and CRUD operations",
-      "image": "/images/projects/5.png",
-      "tag": ["All", "Web"],
+      "title": "Banh-mi restaurant",
+      "description": "First project since study coding. Built a frontend website by vanilla Html, Css and Javascript.",
+      "image": "/images/projects/Banh-mi.png",
+      "tag": ["All", "Web", "Frontend"],
       "gitUrl": "/",
-      "previewUrl": "/"
+      "previewUrl": "https://lucasshao.github.io/"
     },
+
     {
       "id": 6,
-      "title": "Full-stack Roadmap",
-      "description": "Project 5 description",
-      "image": "/images/projects/6.png",
-      "tag": ["All", "Web"],
+      "title": "NextJs Portfolio Website",
+      "description": "Built a responsive and customizable portfolio website using NextJs and Tailwind. Using react-animate and resend email API",
+      "image": "/images/projects/Nextjs-portfolio-lucas.png",
+      "tag": ["All", "Web", "NextJs", "Tailwind", "React"],
       "gitUrl": "/",
-      "previewUrl": "/"
+      "previewUrl": "https://portfolio-website-youtube-lucas.vercel.app/"
+    },
+    {
+      "id": 7,
+      "title": "Ecommer Website",
+      "description": "Built a responsive commercial frontend website by basic Html, Css and Javascript",
+      "image": "/images/projects/Cara-ecommer.png",
+      "tag": ["All", "Web", "Frontend"],
+      "gitUrl": "/",
+      "previewUrl": "https://cara-ecommerce-website-lucas.netlify.app"
+    },
+    {
+      "id": 8,
+      "title": "React World Clock",
+      "description": "Developed a World Clock by using latest react and styled-components",
+      "image": "/images/projects/World_Clock-small.png",
+      "tag": ["All", "Web", "React", "styled-components", "Frontend"],
+      "gitUrl": "/",
+      "previewUrl": "https://world-clock-lucas.netlify.app"
+    },
+    {
+      "id": 9,
+      "title": "React Recipe",
+      "description": "Developed a simple recipe functional front page by using react hook such as useState, useEffect and useContext. uuid used",
+      "image": "/images/projects/React_recipe.png",
+      "tag": ["All", "Web", "React", "Frontend"],
+      "gitUrl": "/",
+      "previewUrl": "https://react-recipe-lucas.netlify.app"
+    },
+    {
+      "id": 10,
+      "title": "Login Function",
+      "description": "Developed a login function page by using nodejs",
+      "image": "/images/projects/Login.png",
+      "tag": ["All", "Web", "Backend"],
+      "gitUrl": "/",
+      "previewUrl": "javascript:"
+    },
+    {
+      "id": 11,
+      "title": "Animation design",
+      "description": "Practiced animation design and develope",
+      "image": "/images/projects/Exploretheworld2023.png",
+      "tag": ["All", "Web", "Frontend"],
+      "gitUrl": "/",
+      "previewUrl": "https://exploretheworld2023.netlify.app"
+    },
+    {
+      "id": 12,
+      "title": "Mini Profile",
+      "description": "Built a mini portfolio website by Html, Css and Javascript",
+      "image": "/images/projects/Mini-Profile.png",
+      "tag": ["All", "Web", "Frontend"],
+      "gitUrl": "/",
+      "previewUrl": "https://mini-profile-website-lucas.netlify.app"
     }
   ]
 }

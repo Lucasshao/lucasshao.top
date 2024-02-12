@@ -14,10 +14,10 @@ const navLinks = [
     title: "Projects",
     path: "#projects",
   },
-  {
-    title: "Contact",
-    path: "#contact",
-  },
+  // {
+  //   title: "Contact",
+  //   path: "#contact",
+  // },
 ];
 
 const Navbar = () => {
@@ -33,7 +33,7 @@ const Navbar = () => {
           href={"/"}
           className="text-2xl font-semibold text-white md:text-5xl"
         >
-          LOGO
+          Lucas Shao
         </Link>
         <div className="block mobile-menu md:hidden">
           {/* block 类是 Tailwind CSS 中的显示类，表示在所有屏幕尺寸上都显示该元素。

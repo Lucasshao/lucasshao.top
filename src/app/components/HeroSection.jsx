@@ -32,32 +32,34 @@ const HeroSection = () => {
             <TypeAnimation
               sequence={[
                 "Lucas",
-                1000,
-                "Web Developer",
-                1000,
-                "Mobile Developer",
-                1000,
-                "UI/UX Designer",
-                1000,
+                2000,
+                "Job Seeker",
+                2000,
+                "Frontend Developer",
+                2000,
+                "Fullstack Developer",
+                2000,
               ]}
               wrapper="span"
-              speed={50}
+              speed={35}
               repeat={Infinity}
             />
           </h1>
           <p className="text-[#ADB7BE] text-base sm:text-lg mb-6 lg:text-xl">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam,
-            voluptuous.
+            As a fast and keen learner, I am seeking an entry-level position
+            with the company to use my skills in coding, assisting in the timely
+            completion of projects, and interacting with team members.
           </p>
           <div>
-            <Link
+            {/* <Link
               href="/#contact"
               className="inline-block w-full px-6 py-3 mr-4 text-white rounded-full sm:w-fit bg-gradient-to-br from-primary-500 to-secondary-500 hover:bg-slate-200"
             >
               Hire Me
-            </Link>
+            </Link> */}
             <Link
-              href="/"
+              // download={""}
+              href="assets/pdf/RESUME_LucasShao_Front End Developer_31_01.pdf"
               className="inline-block w-full px-1 py-1 mt-3 text-white rounded-full sm:w-fit bg-gradient-to-br from-primary-500 to-secondary-500 hover:bg-slate-800"
             >
               <span className="block bg-[#121212] hover:bg-slate-800 rounded-full px-5 py-2">
@@ -72,7 +74,7 @@ const HeroSection = () => {
           transition={{ duration: 0.5 }}
           className="col-span-4 mt-4 place-self-center lg:mt-0"
         >
-          <div className="rounded-full bg-[#181818] w-[250px] h-[250px] lg:w-[400px] lg:h-[400px] relative">
+          {/* <div className="rounded-full bg-[#181818] w-[250px] h-[250px] lg:w-[400px] lg:h-[400px] relative">
             <Image
               src="/images/hero-image.png"
               alt="hero image"
@@ -80,6 +82,14 @@ const HeroSection = () => {
               width={300}
               height={300}
             />
+          </div> */}
+          <div className="rounded-full bg-[#181818] w-[250px] h-[250px] lg:w-[400px] lg:h-[400px] relative overflow-hidden">
+            <div
+              className="w-full h-full bg-center bg-no-repeat bg-cover"
+              style={{ backgroundImage: `url('/images/hero-image.png')` }}
+            >
+              {/* 这里是背景图片 */}
+            </div>
           </div>
         </motion.div>
       </div>
