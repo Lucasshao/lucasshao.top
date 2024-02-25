@@ -11,6 +11,15 @@
     },
     {
       "id": 2,
+      "title": "Taxpal landing page ",
+      "description": "Developed a landing page using Nextjs and TailwindCss",
+      "image": "/images/projects/TaxPal.png",
+      "tag": ["All", "Web", "React", "Tailwind", "Fullstack", "NextJs"],
+      "gitUrl": "/",
+      "previewUrl": "https://taxpal-lucas.netlify.app/"
+    },
+    {
+      "id": 3,
       "title": "Today I learned app",
       "description": "Developed a full-stack web application using HTML, CSS, JavaScript, and React.",
       "image": "/images/projects/Today-I-Learn-App.png",
@@ -19,7 +28,7 @@
       "previewUrl": "https://todayilearned-lucas.netlify.app"
     },
     {
-      "id": 3,
+      "id": 4,
       "title": "Topsocial Website",
       "description": "Vite & Pnpm for setup, custom configs, env variables, JS automation, advanced CSS, interactive design, CSS classes, pseudo-elements",
       "image": "/images/projects/Topsocial-version2.png",
@@ -28,7 +37,7 @@
       "previewUrl": "https://topsocial-version2-lucas.netlify.app"
     },
     {
-      "id": 4,
+      "id": 5,
       "title": "Responsive Car Website",
       "description": "Develop responsive commercial website by using latest Html, Css and Javascript",
       "image": "/images/projects/Responsive-car-website.png",
@@ -37,7 +46,7 @@
       "previewUrl": "https://responsive-car-website-lucas.netlify.app"
     },
     {
-      "id": 5,
+      "id": 6,
       "title": "Banh-mi restaurant",
       "description": "First project since study coding. Built a frontend website by vanilla Html, Css and Javascript.",
       "image": "/images/projects/Banh-mi.png",
@@ -47,7 +56,7 @@
     },
 
     {
-      "id": 6,
+      "id": 7,
       "title": "NextJs Portfolio Website",
       "description": "Built a responsive and customizable portfolio website using NextJs and Tailwind. Using react-animate and resend email API",
       "image": "/images/projects/Nextjs-portfolio-lucas.png",
@@ -56,7 +65,7 @@
       "previewUrl": "https://portfolio-website-youtube-lucas.vercel.app/"
     },
     {
-      "id": 7,
+      "id": 8,
       "title": "Ecommer Website",
       "description": "Built a responsive commercial frontend website by basic Html, Css and Javascript",
       "image": "/images/projects/Cara-ecommer.png",
@@ -65,7 +74,7 @@
       "previewUrl": "https://cara-ecommerce-website-lucas.netlify.app"
     },
     {
-      "id": 8,
+      "id": 9,
       "title": "React World Clock",
       "description": "Developed a World Clock by using latest react and styled-components",
       "image": "/images/projects/World_Clock-small.png",
@@ -74,7 +83,7 @@
       "previewUrl": "https://world-clock-lucas.netlify.app"
     },
     {
-      "id": 9,
+      "id": 10,
       "title": "React Recipe",
       "description": "Developed a simple recipe functional front page by using react hook such as useState, useEffect and useContext. uuid used",
       "image": "/images/projects/React_recipe.png",
@@ -83,7 +92,7 @@
       "previewUrl": "https://react-recipe-lucas.netlify.app"
     },
     {
-      "id": 10,
+      "id": 11,
       "title": "Login Function",
       "description": "Developed a login function page by using nodejs",
       "image": "/images/projects/Login.png",
@@ -92,7 +101,7 @@
       "previewUrl": "javascript:"
     },
     {
-      "id": 11,
+      "id": 12,
       "title": "Animation design",
       "description": "Practiced animation design and develope",
       "image": "/images/projects/Exploretheworld2023.png",
@@ -101,7 +110,7 @@
       "previewUrl": "https://exploretheworld2023.netlify.app"
     },
     {
-      "id": 12,
+      "id": 13,
       "title": "Mini Profile",
       "description": "Built a mini portfolio website by Html, Css and Javascript",
       "image": "/images/projects/Mini-Profile.png",
